@@ -39,3 +39,22 @@ man ls (for the ls command)
 
 #How to open Atom
 atom .
+
+# Permissions
+ there are 3 things you can do; read, write and execute.
+    - ll (to view permissions)
+    - chmod (changes the access permissions to the systems files)
+
+
+# Reads the file
+cat
+
+#Reading the lines
+head - <number of lines> (from the top )
+tail - <number of lines> (from the bottom)
+
+#Sorting alphabetically
+sort
+
+# Numbering Lines
+nl <file name>
