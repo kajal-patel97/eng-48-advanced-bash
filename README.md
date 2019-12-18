@@ -126,7 +126,7 @@ cat example.txt | grep text
 
 4. PID
   -  process id
-  kill [pid]
-
+  - kill [pid]
+  - kill -9 [pid number] (force kills the pid)
 5. eg sleep 120 &
-  - the & makes the process run in the background 
+  - the & makes the process run in the background
