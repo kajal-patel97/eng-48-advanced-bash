@@ -49,7 +49,7 @@ atom .
 ### Permissions
  there are 3 things you can do; read, write and execute.
     - ll (to view permissions)
-    - chmod (changes the access permissions to the systems files)
+    - chmod [permission bianry] [File] (changes the access permissions to the systems files)
 
 
 ### Reads the file
